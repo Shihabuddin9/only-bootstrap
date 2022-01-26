@@ -1,0 +1,103 @@
+/* google font */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+
+/* common css */
+body{
+    background-color: #E5E5E5;
+    color: #0A0826;
+    font-family: 'Poppins', sans-serif;
+}
+
+/* navbar */
+.menulogowidth{
+    font-size: 22px;
+    font-weight: 700;
+
+}
+
+/* WEDDINGS EVENTS */
+.weddingsevents{
+    margin-top: 150px;
+}
+
+/* offcanvas */
+.offcanvas{
+    height: 15%;
+    margin-top: 46%;
+}
+
+/* our pakage 1, 2 @ 3*/
+.ourpakageheading{
+    font-size: 38px;
+    font-weight: 600;
+    color: #0A0826;
+    text-align: center;
+    margin-top: 140px;
+    margin-bottom: 120px;
+}
+.ourpakagetext h1{
+    color: #231D4F;
+    font-size: 28px;
+    font-weight: 700;
+}
+.ourpakagetext, p{ 
+    font-size: 15px;
+    font-weight: 400;
+    color: #848199;
+}
+.ourpakagebtn{
+    background-color: #FFF5FB;
+    color: #3F87F5;
+    font-size: 15px;
+    font-weight: 700;
+    border-radius: 24px;
+}
+/* Our package 3 */
+.ourpakagehot{
+    border-radius: 24px;
+    background-color: #3F87F5;
+    margin-top: -35px;
+}
+
+/* Let's Plan Your Perfect Wedding */
+.weddingplan{
+    margin-top: 150px;
+}
+
+/* footer */
+.footerstyle{
+    margin-top: 100px;
+    height: 280px;
+}
+.downapp{
+    margin-top: -9px;
+}
+.Download{
+    font-size: 7px;
+}
+.applestore{
+    margin-top: -7px;
+    margin-left: -5px;
+    font-size: 11px;
+}
+.getiton{
+    font-size: 8px;
+    margin-left: -10px;
+}
+
+.googleplay{
+    margin-top: -4px;
+    margin-left: 8px;
+    font-size: 9px;
+}
+
+/* responsive */
+@media screen and (max-width: 576px){
+    .menulogowidth{
+        font-size: 13px;
+        font-weight: 100;
+    }
+    .ourpakageheading{
+        margin-bottom: 60px;
+    }
+}
