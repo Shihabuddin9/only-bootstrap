@@ -100,4 +100,7 @@ body{
     .ourpakageheading{
         margin-bottom: 60px;
     }
+    .carousel img{
+        height: 450px;
+    }
 }
